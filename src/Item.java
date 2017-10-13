@@ -22,7 +22,7 @@ public class Item {
         return cosmetic;
     }
 
-    public int getModelid() {
+    public int getModelID() {
         return modelid;
     }
 
